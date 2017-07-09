@@ -42,7 +42,7 @@ Parent is spring-boot-1.5.4, so I advise you to remove duplicates, such as:
   <artifactId>lombok</artifactId>
 </dependency>
 ```
-Also, you can only source code and use it on any logging or aop framework.
+Also, you can get only src and use it on any logging and aop framework.
 
 ## Output
 As a result you'll see this:
