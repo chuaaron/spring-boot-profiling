@@ -3,10 +3,8 @@
 
 ## Motivation
 
-I wanted to create this spring-boot extention because 
-
-Because it's a simple and useful code if you need to measure execution time of the methods. 
-If your task doesn't require large benchmarks - then this will suit you!
+I wanted to create this spring-boot extention because it's a simple and useful code if you need to measure execution 
+time of the methods. If your task doesn't require large benchmarks - then this will suit you!
 I enjoy programming in Clojure.
 
 Besides, I wanted to:
