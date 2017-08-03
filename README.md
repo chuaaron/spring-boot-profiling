@@ -14,7 +14,7 @@ Besides, I wanted to:
 
 ## Usage
 
-Add this to your pom.xml:
+Maven:
 
 ```
 <repository>
@@ -26,12 +26,22 @@ Add this to your pom.xml:
 <dependency>
   <groupId>com.maystrovyy</groupId>
   <artifactId>spring-boot-profiling</artifactId>
-  <version>0.0.4</version>
+  <version>0.0.5</version>
 </dependency>
 ```
 
+Gradle:
+
+```
+maven { url "http://clojars.org/repo"}
+```
+
+```
+compile "com.maystrovyy:spring-boot-profiling:0.0.5"
+```
+
 ### Dependencies
-Parent is spring-boot-1.5.4, so I advise you to remove duplicates, such as:
+Parent is spring-boot-1.5.5, so I advise you to remove duplicates, such as:
 ```
 <dependency>
   <groupId>org.springframework.boot</groupId>
