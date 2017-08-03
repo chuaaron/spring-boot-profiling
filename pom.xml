@@ -5,7 +5,7 @@
 
 	<groupId>com.maystrovyy</groupId>
 	<artifactId>spring-boot-profiling</artifactId>
-	<version>0.0.4</version>
+	<version>0.0.5</version>
 	<packaging>jar</packaging>
 
 	<name>spring-boot-profiling</name>
@@ -14,7 +14,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.5.4.RELEASE</version>
+		<version>1.5.5.RELEASE</version>
 		<relativePath/>
 	</parent>
 
